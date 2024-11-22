@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City
+B-26055,"Wednesday, October 3, 2018",Harivansh,Uttar Pradesh,Mathura
+B-25993,"Thursday, October 4, 2018",Madhav,Delhi,Delhi
+B-25973,"Friday, October 5, 2018",Madan Mohan,Uttar Pradesh,Mathura
+B-25923,"Saturday, October 6, 2018",Gopal,Maharashtra,Mumbai
+B-25757,"Sunday, October 7, 2018",Vishakha,Madhya Pradesh,Indore
+B-25967,"Monday, October 8, 2018",Sudevi,Uttar Pradesh,Prayagraj
+B-25955,"Tuesday, October 9, 2018",Shiva,Maharashtra,Pune
+B-26093,"Wednesday, October 10, 2018",Sarita,Maharashtra,Pune
+B-25798,"Thursday, October 11, 2018",Shishu,Andhra Pradesh,Hyderabad
+B-25602,"Friday, October 12, 2018",Vrinda,Maharashtra,Pune
+B-25858,"Saturday, October 13, 2018",Uudhav,Maharashtra,Mumbai
+B-25969,"Sunday, October 14, 2018",Shreyshi,Gujarat,Surat
+B-26099,"Monday, October 15, 2018",Bhishm,Maharashtra,Mumbai
+B-25997,"Tuesday, October 16, 2018",Yogesh,Maharashtra,Pune
+B-25881,"Wednesday, October 17, 2018",Lalita,Uttar Pradesh,Mathura
+B-25761,"Thursday, October 18, 2018",Madhav,Uttar Pradesh,Mathura
+B-25887,"Friday, October 19, 2018",Vishakha,Uttar Pradesh,Prayagraj
+B-25823,"Saturday, October 20, 2018",Rohan,Maharashtra,Mumbai
+B-25853,"Sunday, October 21, 2018",Gaurav,Gujarat,Ahmedabad
+B-25862,"Monday, October 22, 2018",Amol,Bihar,Patna
+B-25830,"Tuesday, October 23, 2018",Aastha,Himachal Pradesh,Simla
+B-25786,"Wednesday, October 24, 2018",Madan Mohan,Uttar Pradesh,Mathura
+B-25686,"Thursday, October 25, 2018",Pooja,Himachal Pradesh,Simla
+B-26022,"Friday, October 26, 2018",Shrichand,Punjab,Chandigarh
+B-26003,"Saturday, October 27, 2018",Hitesh,Madhya Pradesh,Bhopal
+B-25755,"Sunday, October 28, 2018",Shourya,Kerala ,Thiruvananthapuram
+B-25902,"Monday, October 29, 2018",Ishpreet,Maharashtra,Mumbai
+B-25935,"Tuesday, October 30, 2018",Sudhir,Nagaland,Kohima
+B-25797,"Wednesday, October 31, 2018",Sauptik,Madhya Pradesh,Indore
+B-25639,"Thursday, November 1, 2018",Lisha,Madhya Pradesh,Bhopal
+B-25681,"Friday, November 2, 2018",Bhawna,Madhya Pradesh,Indore
+B-25909,"Saturday, November 3, 2018",Sujay,Maharashtra,Pune
+B-25910,"Sunday, November 4, 2018",Jay,Delhi,Delhi
+B-25950,"Monday, November 5, 2018",Shruti,Madhya Pradesh,Indore
+B-25613,"Tuesday, November 6, 2018",Mohan,Haryana,Chandigarh
+B-25919,"Wednesday, November 7, 2018",Neha,Rajasthan,Udaipur
+B-25768,"Thursday, November 8, 2018",Shreyoshe,Karnataka,Bangalore
+B-25629,"Friday, November 9, 2018",Hemant,Kerala ,Thiruvananthapuram
+B-25729,"Saturday, November 10, 2018",Madhulika,Madhya Pradesh,Bhopal
+B-25943,"Sunday, November 11, 2018",Shardul,Gujarat,Ahmedabad
+B-25842,"Monday, November 12, 2018",Sheetal,Maharashtra,Pune
+B-26073,"Tuesday, November 13, 2018",Pournamasi,Madhya Pradesh,Indore
+B-25778,"Wednesday, November 14, 2018",Surabhi,Maharashtra,Mumbai
+B-25717,"Thursday, November 15, 2018",Manshul,Uttar Pradesh,Lucknow
+B-26085,"Friday, November 16, 2018",Shrichand,Punjab,Chandigarh
+B-26048,"Saturday, November 17, 2018",Parth,Maharashtra,Pune
+B-25793,"Sunday, November 18, 2018",Siddharth,Madhya Pradesh,Indore
+B-25656,"Monday, November 19, 2018",Priyanka,Maharashtra,Pune
+B-25608,"Tuesday, November 20, 2018",Aarushi,Tamil Nadu,Chennai
+B-25752,"Wednesday, November 21, 2018",Vaibhav,Madhya Pradesh,Indore
+B-25779,"Thursday, November 22, 2018",Savi,Maharashtra,Pune
+B-25603,"Friday, November 23, 2018",Jahan,Madhya Pradesh,Bhopal
+B-26051,"Saturday, November 24, 2018",Parishi,West Bengal,Kolkata
+B-25653,"Sunday, November 25, 2018",Farah,Nagaland,Kohima
+B-25855,"Monday, November 26, 2018",Abhijeet,Madhya Pradesh,Bhopal
+B-25762,"Tuesday, November 27, 2018",Anudeep,Madhya Pradesh,Indore
+B-25995,"Wednesday, November 28, 2018",Yohann,Delhi,Delhi
+B-25929,"Thursday, November 29, 2018",Girase,Kerala ,Thiruvananthapuram
+B-26006,"Friday, November 30, 2018",Arpita,Karnataka,Bangalore
+B-25697,"Saturday, December 1, 2018",Vijay,Jammu and Kashmir,Kashmir
+B-25836,"Sunday, December 2, 2018",Arti,Maharashtra,Pune
+B-25601,"Monday, December 3, 2018",Bharat,Gujarat,Ahmedabad
+B-25873,"Tuesday, December 4, 2018",Divyeta,Madhya Pradesh,Indore
+B-26028,"Wednesday, December 5, 2018",Manju,Andhra Pradesh,Hyderabad
+B-25964,"Thursday, December 6, 2018",Oshin,Maharashtra,Pune
+B-25676,"Friday, December 7, 2018",Chandni,Rajasthan,Jaipur
+B-25839,"Saturday, December 8, 2018",Pranjali,West Bengal,Kolkata
+B-25894,"Sunday, December 9, 2018",Monu,Punjab,Amritsar
+B-25925,"Monday, December 10, 2018",Shruti,Maharashtra,Mumbai
+B-25953,"Tuesday, December 11, 2018",Krutika,Andhra Pradesh,Hyderabad
+B-25772,"Wednesday, December 12, 2018",Sanjana,Bihar,Patna
+B-25957,"Thursday, December 13, 2018",Mahima,Madhya Pradesh,Indore
+B-25730,"Friday, December 14, 2018",Rishabh,Rajasthan,Jaipur
+B-25877,"Saturday, December 15, 2018",Dashyam,Gujarat,Surat
+B-26067,"Sunday, December 16, 2018",Tulika,Madhya Pradesh,Bhopal
+B-25810,"Monday, December 17, 2018",Nripraj,Punjab,Chandigarh
+B-25868,"Tuesday, December 18, 2018",Vikash,Goa,Goa
+B-26023,"Wednesday, December 19, 2018",Mukesh,Haryana,Chandigarh
+B-25626,"Thursday, December 20, 2018",Bhishm,Maharashtra,Mumbai
+B-25937,"Friday, December 21, 2018",Ankit,Haryana,Chandigarh
+B-25610,"Saturday, December 22, 2018",Yogesh,Bihar,Patna
+B-25777,"Sunday, December 23, 2018",Aditi,Madhya Pradesh,Indore
+B-25738,"Monday, December 24, 2018",Ayush,Punjab,Chandigarh
+B-25978,"Tuesday, December 25, 2018",Parin,Maharashtra,Mumbai
+B-25643,"Wednesday, December 26, 2018",Kirti,Jammu and Kashmir,Kashmir
+B-25728,"Thursday, December 27, 2018",Ameesha,Maharashtra,Pune
+B-25749,"Friday, December 28, 2018",Ayush,Maharashtra,Mumbai
+B-25667,"Saturday, December 29, 2018",Anjali,Haryana,Chandigarh
+B-25657,"Sunday, December 30, 2018",Tulika,Madhya Pradesh,Bhopal
+B-25753,"Monday, December 31, 2018",Shivam,Uttar Pradesh,Lucknow
+B-26061,"Tuesday, January 1, 2019",Anurag,Madhya Pradesh,Indore
+B-25838,"Wednesday, January 2, 2019",Sanjana,Madhya Pradesh,Indore
+B-25702,"Thursday, January 3, 2019",Shaily,Maharashtra,Mumbai
+B-25952,"Friday, January 4, 2019",Priyanka,Madhya Pradesh,Indore
+B-25666,"Saturday, January 5, 2019",Tanvi,Punjab,Chandigarh
+B-25675,"Sunday, January 6, 2019",Shreya,Madhya Pradesh,Bhopal
+B-25650,"Monday, January 7, 2019",Chirag,Maharashtra,Mumbai
+B-25986,"Tuesday, January 8, 2019",Shweta,Rajasthan,Udaipur
+B-25850,"Wednesday, January 9, 2019",Abhishek,Goa,Goa
+B-25898,"Thursday, January 10, 2019",Abhishek,Rajasthan,Udaipur
+B-25813,"Friday, January 11, 2019",Hrisheekesh,Maharashtra,Mumbai
+B-25825,"Saturday, January 12, 2019",Kartik,Madhya Pradesh,Indore
+B-25954,"Sunday, January 13, 2019",Trupti,Gujarat,Ahmedabad
+B-25696,"Monday, January 14, 2019",Noopur,Karnataka,Bangalore
+B-25638,"Tuesday, January 15, 2019",Parth,Maharashtra,Pune
+B-25747,"Wednesday, January 16, 2019",Harsh,Madhya Pradesh,Bhopal
+B-25904,"Thursday, January 17, 2019",Swapnil,Delhi,Delhi
+B-25852,"Friday, January 18, 2019",Soumyabrata,Andhra Pradesh,Hyderabad
+B-25981,"Saturday, January 19, 2019",Amruta,Delhi,Delhi
+B-25899,"Sunday, January 20, 2019",Aishwarya,Uttar Pradesh,Prayagraj
+B-25870,"Monday, January 21, 2019",Pranav,Andhra Pradesh,Hyderabad
+B-26040,"Tuesday, January 22, 2019",Sahil,Punjab,Chandigarh
+B-25671,"Wednesday, January 23, 2019",Mitali,Nagaland,Kohima
+B-26100,"Thursday, January 24, 2019",Hitika,Madhya Pradesh,Indore
+B-25651,"Friday, January 25, 2019",Anurag,Madhya Pradesh,Indore
+B-25968,"Saturday, January 26, 2019",Paromita,Punjab,Amritsar
+B-26019,"Sunday, January 27, 2019",Jitesh,Uttar Pradesh,Lucknow
+B-25664,"Monday, January 28, 2019",Pratyusmita,Bihar,Patna
+B-26033,"Tuesday, January 29, 2019",Atharv,West Bengal,Kolkata
+B-26052,"Wednesday, January 30, 2019",Ajay,Karnataka,Bangalore
+B-25999,"Thursday, January 31, 2019",Diwakar,Delhi,Delhi
+B-25781,"Friday, February 1, 2019",Rutuja,Gujarat,Ahmedabad
+B-25764,"Saturday, February 2, 2019",Sanjova,Maharashtra,Pune
+B-25803,"Sunday, February 3, 2019",Shivanshu,Madhya Pradesh,Indore
+B-25945,"Monday, February 4, 2019",Mhatre,Madhya Pradesh,Indore
+B-26086,"Tuesday, February 5, 2019",Mukesh,Haryana,Chandigarh
+B-25845,"Wednesday, February 6, 2019",Snel,Kerala ,Thiruvananthapuram
+B-25817,"Thursday, February 7, 2019",Praneet,Maharashtra,Mumbai
+B-25951,"Friday, February 8, 2019",Jesal,West Bengal,Kolkata
+B-25970,"Saturday, February 9, 2019",Rhea,Maharashtra,Mumbai
+B-25878,"Sunday, February 10, 2019",Mrinal,Maharashtra,Mumbai
+B-26057,"Monday, February 11, 2019",Sharda,Kerala ,Thiruvananthapuram
+B-25885,"Tuesday, February 12, 2019",Shatayu,Madhya Pradesh,Indore
+B-25897,"Wednesday, February 13, 2019",Rohan,Madhya Pradesh,Indore
+B-25756,"Thursday, February 14, 2019",Mohan,Maharashtra,Mumbai
+B-25859,"Friday, February 15, 2019",Chikku,Madhya Pradesh,Indore
+B-25691,"Saturday, February 16, 2019",Akancha,Maharashtra,Mumbai
+B-25633,"Sunday, February 17, 2019",Amit,Sikkim,Gangtok
+B-25708,"Monday, February 18, 2019",Kishwar,Madhya Pradesh,Indore
+B-25831,"Tuesday, February 19, 2019",Mahima,Sikkim,Gangtok
+B-25856,"Wednesday, February 20, 2019",Abhijeet,Maharashtra,Mumbai
+B-25893,"Thursday, February 21, 2019",Vrinda,Uttar Pradesh,Mathura
+B-25959,"Friday, February 22, 2019",Muskan,Madhya Pradesh,Indore
+B-26000,"Saturday, February 23, 2019",Shubham,Delhi,Delhi
+B-26097,"Sunday, February 24, 2019",Vini,Karnataka,Bangalore
+B-25745,"Monday, February 25, 2019",Kartik,Gujarat,Ahmedabad
+B-25974,"Tuesday, February 26, 2019",Manisha,Rajasthan,Udaipur
+B-25670,"Wednesday, February 27, 2019",Charika,Goa,Goa
+B-25848,"Thursday, February 28, 2019",Rohan,Himachal Pradesh,Simla
+B-25888,"Friday, March 1, 2019",Rohan,Punjab,Amritsar
+B-25942,"Saturday, March 2, 2019",Ankur,Andhra Pradesh,Hyderabad
+B-25847,"Sunday, March 3, 2019",Aniket,Haryana,Chandigarh
+B-25636,"Monday, March 4, 2019",Nishi,Maharashtra,Mumbai
+B-25826,"Tuesday, March 5, 2019",Tanushree,Maharashtra,Mumbai
+B-26081,"Wednesday, March 6, 2019",Aarushi,Tamil Nadu,Chennai
+B-25625,"Thursday, March 7, 2019",Pinky,Jammu and Kashmir,Kashmir
+B-25802,"Friday, March 8, 2019",Yash,Maharashtra,Mumbai
+B-25693,"Saturday, March 9, 2019",Parna,Madhya Pradesh,Bhopal
+B-25796,"Sunday, March 10, 2019",Sukrith,Maharashtra,Mumbai
+B-25806,"Monday, March 11, 2019",Dhanraj,Madhya Pradesh,Indore
+B-25710,"Tuesday, March 12, 2019",Megha,Maharashtra,Pune
+B-25669,"Wednesday, March 13, 2019",Piyali,Sikkim,Gangtok
+B-25857,"Thursday, March 14, 2019",Anand,Madhya Pradesh,Indore
+B-25785,"Friday, March 15, 2019",Ayush,West Bengal,Kolkata
+B-25930,"Saturday, March 16, 2019",Monica,Punjab,Chandigarh
+B-26053,"Sunday, March 17, 2019",Kirti,Jammu and Kashmir,Kashmir
+B-26070,"Monday, March 18, 2019",Shruti,Karnataka,Bangalore
+B-25791,"Tuesday, March 19, 2019",Avish,Kerala ,Thiruvananthapuram
+B-25983,"Wednesday, March 20, 2019",Atul,Delhi,Delhi
+B-25979,"Thursday, March 21, 2019",Shivangi,Madhya Pradesh,Indore
+B-26054,"Friday, March 22, 2019",Mayank,Maharashtra,Mumbai
+B-26078,"Saturday, March 23, 2019",Kasheen,West Bengal,Kolkata
+B-25787,"Sunday, March 24, 2019",Asish,Jammu and Kashmir,Kashmir
+B-25682,"Monday, March 25, 2019",Krutika,Bihar,Patna
+B-25962,"Tuesday, March 26, 2019",Tejeswini,Maharashtra,Pune
+B-25750,"Wednesday, March 27, 2019",Priyanshu,Madhya Pradesh,Indore
+B-25828,"Thursday, March 28, 2019",Nikita,Punjab,Chandigarh
+B-25622,"Friday, March 29, 2019",Monisha,Rajasthan,Jaipur
+B-25751,"Saturday, March 30, 2019",Nishant,Maharashtra,Mumbai
+B-25685,"Sunday, March 31, 2019",Sheetal,Madhya Pradesh,Indore
+B-26010,"Monday, April 1, 2019",Kartikay,Bihar,Patna
+B-26035,"Tuesday, April 2, 2019",Pinky,Jammu and Kashmir,Kashmir
+B-25698,"Wednesday, April 3, 2019",Amisha,Tamil Nadu,Chennai
+B-25966,"Thursday, April 4, 2019",Soumya,Rajasthan,Udaipur
+B-25832,"Friday, April 5, 2019",Harshita,Maharashtra,Mumbai
+B-25743,"Saturday, April 6, 2019",Aman,Nagaland,Kohima
+B-25886,"Sunday, April 7, 2019",Brijesh,Rajasthan,Udaipur
+B-25975,"Monday, April 8, 2019",Priyanka,Uttar Pradesh,Prayagraj
+B-26098,"Tuesday, April 9, 2019",Pinky,Jammu and Kashmir,Kashmir
+B-25614,"Wednesday, April 10, 2019",Vandana,Himachal Pradesh,Simla
+B-25726,"Thursday, April 11, 2019",Kiran,Maharashtra,Mumbai
+B-26050,"Friday, April 12, 2019",Paridhi,Rajasthan,Jaipur
+B-25609,"Saturday, April 13, 2019",Jitesh,Uttar Pradesh,Lucknow
+B-25741,"Sunday, April 14, 2019",Navdeep,Madhya Pradesh,Indore
+B-25956,"Monday, April 15, 2019",Shreya,Maharashtra,Mumbai
+B-25689,"Tuesday, April 16, 2019",Bhaggyasree,Maharashtra,Mumbai
+B-25939,"Wednesday, April 17, 2019",Vineet,Sikkim,Gangtok
+B-25890,"Thursday, April 18, 2019",Divyansha,Maharashtra,Mumbai
+B-25814,"Friday, April 19, 2019",Swapnil,Madhya Pradesh,Indore
+B-25718,"Saturday, April 20, 2019",Anjali,Maharashtra,Mumbai
+B-25914,"Sunday, April 21, 2019",Kajal,Delhi,Delhi
+B-25903,"Monday, April 22, 2019",Amlan,Madhya Pradesh,Indore
+B-26096,"Tuesday, April 23, 2019",Atharv,West Bengal,Kolkata
+B-25654,"Wednesday, April 24, 2019",Sabah,Maharashtra,Mumbai
+B-26076,"Thursday, April 25, 2019",Jahan,Madhya Pradesh,Bhopal
+B-25961,"Friday, April 26, 2019",Surbhi,Gujarat,Ahmedabad
+B-25854,"Saturday, April 27, 2019",Shubham,Maharashtra,Pune
+B-25642,"Sunday, April 28, 2019",Ajay,Karnataka,Bangalore
+B-25683,"Monday, April 29, 2019",Shreya,Kerala ,Thiruvananthapuram
+B-26016,"Tuesday, April 30, 2019",Hazel,Karnataka,Bangalore
+B-26034,"Wednesday, May 1, 2019",Vini,Karnataka,Bangalore
+B-26056,"Thursday, May 2, 2019",Sonal,Bihar,Patna
+B-25819,"Friday, May 3, 2019",Ankur,Madhya Pradesh,Bhopal
+B-25715,"Saturday, May 4, 2019",Srishti,Jammu and Kashmir,Kashmir
+B-25933,"Sunday, May 5, 2019",Shikhar,Maharashtra,Mumbai
+B-26014,"Monday, May 6, 2019",Divsha,Rajasthan,Jaipur
+B-25655,"Tuesday, May 7, 2019",Nida,Madhya Pradesh,Indore
+B-25816,"Wednesday, May 8, 2019",Mane,Andhra Pradesh,Hyderabad
+B-25634,"Thursday, May 9, 2019",Sanjay,Goa,Goa
+B-25895,"Friday, May 10, 2019",Sathya,Gujarat,Surat
+B-25687,"Saturday, May 11, 2019",Sanjna,Maharashtra,Mumbai
+B-25662,"Sunday, May 12, 2019",Sweta,Maharashtra,Mumbai
+B-25635,"Monday, May 13, 2019",Nidhi,Nagaland,Kohima
+B-26060,"Tuesday, May 14, 2019",Chirag,Maharashtra,Mumbai
+B-26045,"Wednesday, May 15, 2019",Nidhi,Nagaland,Kohima
+B-25770,"Thursday, May 16, 2019",Sakshi,Madhya Pradesh,Indore
+B-25744,"Friday, May 17, 2019",Devendra,Andhra Pradesh,Hyderabad
+B-25618,"Saturday, May 18, 2019",Manju,Andhra Pradesh,Hyderabad
+B-25958,"Sunday, May 19, 2019",Aparajita,West Bengal,Kolkata
+B-25769,"Monday, May 20, 2019",Surbhi,Maharashtra,Mumbai
+B-25619,"Tuesday, May 21, 2019",Ramesh,Gujarat,Ahmedabad
+B-25688,"Wednesday, May 22, 2019",Swetha,Madhya Pradesh,Indore
+B-25829,"Thursday, May 23, 2019",Apoorva,Haryana,Chandigarh
+B-26036,"Friday, May 24, 2019",Bhishm,Maharashtra,Mumbai
+B-25714,"Saturday, May 25, 2019",Stuti,Karnataka,Bangalore
+B-25989,"Sunday, May 26, 2019",Anjali,Delhi,Delhi
+B-25849,"Monday, May 27, 2019",K,Sikkim,Gangtok
+B-25851,"Tuesday, May 28, 2019",Kushal,Nagaland,Kohima
+B-25782,"Wednesday, May 29, 2019",Aayushi,Maharashtra,Mumbai
+B-25621,"Thursday, May 30, 2019",Deepak,Madhya Pradesh,Bhopal
+B-25996,"Friday, May 31, 2019",Prashant,Delhi,Delhi
+B-25678,"Saturday, June 1, 2019",Bathina,Karnataka,Bangalore
+B-25727,"Sunday, June 2, 2019",Turumella,Madhya Pradesh,Indore
+B-26018,"Monday, June 3, 2019",Aarushi,Tamil Nadu,Chennai
+B-25760,"Tuesday, June 4, 2019",Pooja,Goa,Goa
+B-25804,"Wednesday, June 5, 2019",Sudheer,Karnataka,Bangalore
+B-25754,"Thursday, June 6, 2019",Akshay,Bihar,Patna
+B-26020,"Friday, June 7, 2019",Yogesh,Bihar,Patna
+B-25640,"Saturday, June 8, 2019",Paridhi,Rajasthan,Jaipur
+B-25789,"Sunday, June 9, 2019",Akshay,Uttar Pradesh,Lucknow
+B-26072,"Monday, June 10, 2019",Sweta,Maharashtra,Mumbai
+B-26007,"Tuesday, June 11, 2019",Shubham,Jammu and Kashmir,Kashmir
+B-26087,"Wednesday, June 12, 2019",Vandana,Himachal Pradesh,Simla
+B-25617,"Thursday, June 13, 2019",Sagar,Nagaland,Kohima
+B-25984,"Friday, June 14, 2019",Kajal,Delhi,Delhi
+B-25767,"Saturday, June 15, 2019",Ashmeet,West Bengal,Kolkata
+B-25987,"Sunday, June 16, 2019",Manjiri,Delhi,Delhi
+B-25840,"Monday, June 17, 2019",Sneha,Karnataka,Bangalore
+B-25663,"Tuesday, June 18, 2019",Pournamasi,Madhya Pradesh,Indore
+B-26030,"Wednesday, June 19, 2019",Sarita,Maharashtra,Pune
+B-25947,"Thursday, June 20, 2019",Chetan,Gujarat,Ahmedabad
+B-25896,"Friday, June 21, 2019",Aman,Maharashtra,Mumbai
+B-26009,"Saturday, June 22, 2019",Komal,Uttar Pradesh,Lucknow
+B-25876,"Sunday, June 23, 2019",Bhosale,Punjab,Amritsar
+B-25915,"Monday, June 24, 2019",Sukruta,Punjab,Amritsar
+B-25795,"Tuesday, June 25, 2019",Sukant,Sikkim,Gangtok
+B-26002,"Wednesday, June 26, 2019",Harsh,Delhi,Delhi
+B-25645,"Thursday, June 27, 2019",Yaanvi,Madhya Pradesh,Indore
+B-25837,"Friday, June 28, 2019",Palak,Maharashtra,Mumbai
+B-25612,"Saturday, June 29, 2019",Shrichand,Punjab,Chandigarh
+B-25812,"Sunday, June 30, 2019",Kshitij,Madhya Pradesh,Indore
+B-25843,"Monday, July 1, 2019",Mrunal,Maharashtra,Mumbai
+B-26026,"Tuesday, July 2, 2019",Kanak,Goa,Goa
+B-25773,"Wednesday, July 3, 2019",Shreya,Kerala ,Thiruvananthapuram
+B-25875,"Thursday, July 4, 2019",Divyeshkumar,Uttar Pradesh,Prayagraj
+B-25660,"Friday, July 5, 2019",Shruti,Karnataka,Bangalore
+B-25918,"Saturday, July 6, 2019",Karandeep,Madhya Pradesh,Indore
+B-25971,"Sunday, July 7, 2019",Mitali,Madhya Pradesh,Indore
+B-26063,"Monday, July 8, 2019",Farah,Nagaland,Kohima
+B-25867,"Tuesday, July 9, 2019",Ankit,Sikkim,Gangtok
+B-25703,"Wednesday, July 10, 2019",Ekta,Madhya Pradesh,Indore
+B-25661,"Thursday, July 11, 2019",Subhashree,Jammu and Kashmir,Kashmir
+B-25748,"Friday, July 12, 2019",Nitant,Rajasthan,Jaipur
+B-25766,"Saturday, July 13, 2019",Surabhi,Rajasthan,Jaipur
+B-25861,"Sunday, July 14, 2019",Aayush,Uttar Pradesh,Lucknow
+B-26058,"Monday, July 15, 2019",Aditya,Punjab,Chandigarh
+B-25808,"Tuesday, July 16, 2019",Apsingekar,Bihar,Patna
+B-25900,"Wednesday, July 17, 2019",Anand,Punjab,Amritsar
+B-26084,"Thursday, July 18, 2019",Anita,Kerala ,Thiruvananthapuram
+B-25652,"Friday, July 19, 2019",Tushina,Goa,Goa
+B-26008,"Saturday, July 20, 2019",Kalyani,Tamil Nadu,Chennai
+B-25799,"Sunday, July 21, 2019",Divyansh,Gujarat,Ahmedabad
+B-25927,"Monday, July 22, 2019",Shreya,Uttar Pradesh,Lucknow
+B-25985,"Tuesday, July 23, 2019",Ginny,Madhya Pradesh,Indore
+B-25994,"Wednesday, July 24, 2019",Omkar,Delhi,Delhi
+B-25620,"Thursday, July 25, 2019",Sarita,Maharashtra,Pune
+B-25712,"Friday, July 26, 2019",Adhvaita,Rajasthan,Jaipur
+B-25976,"Saturday, July 27, 2019",Piyam,Punjab,Amritsar
+B-26068,"Sunday, July 28, 2019",Shefali,Rajasthan,Jaipur
+B-25721,"Monday, July 29, 2019",Anchal,Haryana,Chandigarh
+B-25863,"Tuesday, July 30, 2019",Manibalan,Kerala ,Thiruvananthapuram
+B-25991,"Wednesday, July 31, 2019",Mansi,Madhya Pradesh,Indore
+B-25737,"Thursday, August 1, 2019",Shubham,Madhya Pradesh,Indore
+B-26043,"Friday, August 2, 2019",Amit,Sikkim,Gangtok
+B-25977,"Saturday, August 3, 2019",Aayushi,Gujarat,Surat
+B-25908,"Sunday, August 4, 2019",Pradeep,Delhi,Delhi
+B-25941,"Monday, August 5, 2019",Jaideep,Nagaland,Kohima
+B-25794,"Tuesday, August 6, 2019",Aditya,Himachal Pradesh,Simla
+B-26041,"Wednesday, August 7, 2019",Ritu,Haryana,Chandigarh
+B-25695,"Thursday, August 8, 2019",Suhani,West Bengal,Kolkata
+B-25960,"Friday, August 9, 2019",Shreya,Andhra Pradesh,Hyderabad
+B-26037,"Saturday, August 10, 2019",Hitika,Madhya Pradesh,Indore
+B-25921,"Sunday, August 11, 2019",Sandra,Punjab,Amritsar
+B-25944,"Monday, August 12, 2019",Syed,Maharashtra,Pune
+B-25724,"Tuesday, August 13, 2019",Sheetal,Madhya Pradesh,Indore
+B-26024,"Wednesday, August 14, 2019",Vandana,Himachal Pradesh,Simla
+B-25694,"Thursday, August 15, 2019",Subhasmita,Rajasthan,Jaipur
+B-25665,"Friday, August 16, 2019",Chayanika,Kerala ,Thiruvananthapuram
+B-26004,"Saturday, August 17, 2019",Nandita,Rajasthan,Jaipur
+B-25611,"Sunday, August 18, 2019",Anita,Kerala ,Thiruvananthapuram
+B-25901,"Monday, August 19, 2019",Suraj,Gujarat,Surat
+B-25623,"Tuesday, August 20, 2019",Atharv,West Bengal,Kolkata
+B-25713,"Wednesday, August 21, 2019",Raksha,West Bengal,Kolkata
+B-26091,"Thursday, August 22, 2019",Manju,Andhra Pradesh,Hyderabad
+B-25604,"Friday, August 23, 2019",Divsha,Rajasthan,Jaipur
+B-25827,"Saturday, August 24, 2019",Sheetal,Madhya Pradesh,Indore
+B-25835,"Sunday, August 25, 2019",Moumita,Gujarat,Ahmedabad
+B-26025,"Monday, August 26, 2019",Bhavna,Sikkim,Gangtok
+B-25809,"Tuesday, August 27, 2019",Suman,Kerala ,Thiruvananthapuram
+B-25905,"Wednesday, August 28, 2019",Bhargav,Delhi,Delhi
+B-25948,"Thursday, August 29, 2019",Mukund,Maharashtra,Pune
+B-26094,"Friday, August 30, 2019",Deepak,Madhya Pradesh,Bhopal
+B-25949,"Saturday, August 31, 2019",Shantanu,Maharashtra,Mumbai
+B-26001,"Sunday, September 1, 2019",Patil,Delhi,Delhi
+B-25771,"Monday, September 2, 2019",Vaibhavi,Uttar Pradesh,Lucknow
+B-25659,"Tuesday, September 3, 2019",Sanskriti,West Bengal,Kolkata
+B-25924,"Wednesday, September 4, 2019",Prajakta,Karnataka,Bangalore
+B-25883,"Thursday, September 5, 2019",Saptadeep,Gujarat,Surat
+B-25946,"Friday, September 6, 2019",Saurabh,Andhra Pradesh,Hyderabad
+B-26065,"Saturday, September 7, 2019",Nida,Madhya Pradesh,Indore
+B-26083,"Sunday, September 8, 2019",Yogesh,Bihar,Patna
+B-25725,"Monday, September 9, 2019",Anisha,Nagaland,Kohima
+B-25630,"Tuesday, September 10, 2019",Sahil,Punjab,Chandigarh
+B-25673,"Wednesday, September 11, 2019",Arsheen,Gujarat,Ahmedabad
+B-25692,"Thursday, September 12, 2019",Rashmi,Madhya Pradesh,Indore
+B-25992,"Friday, September 13, 2019",Gaurav,Rajasthan,Udaipur
+B-25765,"Saturday, September 14, 2019",Meghana,Madhya Pradesh,Bhopal
+B-25892,"Sunday, September 15, 2019",Aditi,Rajasthan,Udaipur
+B-26089,"Monday, September 16, 2019",Kanak,Goa,Goa
+B-25780,"Tuesday, September 17, 2019",Teena,Andhra Pradesh,Hyderabad
+B-25684,"Wednesday, September 18, 2019",Samiksha,Maharashtra,Mumbai
+B-25739,"Thursday, September 19, 2019",Daksh,Haryana,Chandigarh
+B-25731,"Friday, September 20, 2019",Akash,West Bengal,Kolkata
+B-25648,"Saturday, September 21, 2019",Aditya,Punjab,Chandigarh
+B-26038,"Sunday, September 22, 2019",Pooja,Bihar,Patna
+B-25700,"Monday, September 23, 2019",Shubhi,Maharashtra,Mumbai
+B-26015,"Tuesday, September 24, 2019",Kasheen,West Bengal,Kolkata
+B-25704,"Wednesday, September 25, 2019",Riya,Maharashtra,Mumbai
+B-25811,"Thursday, September 26, 2019",Utsav,Maharashtra,Mumbai
+B-25821,"Friday, September 27, 2019",Ajay,West Bengal,Kolkata
+B-25874,"Saturday, September 28, 2019",Megha,Rajasthan,Udaipur
+B-25668,"Sunday, September 29, 2019",Rhea,Himachal Pradesh,Simla
+B-25800,"Monday, September 30, 2019",Ishit,Maharashtra,Pune
+B-25928,"Tuesday, October 1, 2019",Smriti,Bihar,Patna
+B-26021,"Wednesday, October 2, 2019",Anita,Kerala ,Thiruvananthapuram
+B-26064,"Thursday, October 3, 2019",Ankita,Maharashtra,Mumbai
+B-25882,"Friday, October 4, 2019",Masurkar,Punjab,Amritsar
+B-25891,"Saturday, October 5, 2019",Shivani,Madhya Pradesh,Indore
+B-25820,"Sunday, October 6, 2019",Dheeraj,Rajasthan,Jaipur
+B-25889,"Monday, October 7, 2019",Abhishek,Gujarat,Surat
+B-25871,"Tuesday, October 8, 2019",Gunjal,Gujarat,Surat
+B-25637,"Wednesday, October 9, 2019",Ashmi,Madhya Pradesh,Indore
+B-25616,"Thursday, October 10, 2019",Kanak,Goa,Goa
+B-25972,"Friday, October 11, 2019",Jesslyn,Rajasthan,Udaipur
+B-25805,"Saturday, October 12, 2019",Ankit,Maharashtra,Mumbai
+B-25860,"Sunday, October 13, 2019",Akshay,Tamil Nadu,Chennai
+B-26080,"Monday, October 14, 2019",Sonakshi,Jammu and Kashmir,Kashmir
+B-25807,"Tuesday, October 15, 2019",Vipul,Uttar Pradesh,Lucknow
+B-25734,"Wednesday, October 16, 2019",Pranav,Madhya Pradesh,Indore
+B-25880,"Thursday, October 17, 2019",Apoorv,Rajasthan,Udaipur
+B-25934,"Friday, October 18, 2019",Rahul,Madhya Pradesh,Indore
+B-25913,"Saturday, October 19, 2019",Geetanjali,Delhi,Delhi
+B-25912,"Sunday, October 20, 2019",Preksha,Delhi,Delhi
+B-25824,"Monday, October 21, 2019",Shyam,Madhya Pradesh,Indore
+B-25711,"Tuesday, October 22, 2019",Sakshi,Madhya Pradesh,Bhopal
+B-25864,"Wednesday, October 23, 2019",Aromal,Maharashtra,Mumbai
+B-25917,"Thursday, October 24, 2019",Sanjay,Maharashtra,Mumbai
+B-26049,"Friday, October 25, 2019",Lisha,Madhya Pradesh,Bhopal
+B-25920,"Saturday, October 26, 2019",Jayanti,Uttar Pradesh,Prayagraj
+B-25699,"Sunday, October 27, 2019",Kritika,Uttar Pradesh,Lucknow
+B-25735,"Monday, October 28, 2019",Arindam,Uttar Pradesh,Lucknow
+B-25701,"Tuesday, October 29, 2019",Maithilee,Madhya Pradesh,Indore
+B-26092,"Wednesday, October 30, 2019",Ramesh,Gujarat,Ahmedabad
+B-26082,"Thursday, October 31, 2019",Jitesh,Uttar Pradesh,Lucknow
+B-25818,"Friday, November 1, 2019",Sandeep,Madhya Pradesh,Indore
+B-25846,"Saturday, November 2, 2019",Soodesh,Punjab,Chandigarh
+B-26011,"Sunday, November 3, 2019",Bharat,Gujarat,Ahmedabad
+B-25631,"Monday, November 4, 2019",Ritu,Haryana,Chandigarh
+B-25606,"Tuesday, November 5, 2019",Hazel,Karnataka,Bangalore
+B-25746,"Wednesday, November 6, 2019",Shivam,Maharashtra,Pune
+B-26005,"Thursday, November 7, 2019",Parnavi,West Bengal,Kolkata
+B-25844,"Friday, November 8, 2019",Swati,Madhya Pradesh,Indore
+B-25869,"Saturday, November 9, 2019",Parakh,Nagaland,Kohima
+B-26066,"Sunday, November 10, 2019",Priyanka,Maharashtra,Pune
+B-25865,"Monday, November 11, 2019",Arun,Madhya Pradesh,Indore
+B-26039,"Tuesday, November 12, 2019",Hemant,Kerala ,Thiruvananthapuram
+B-25916,"Wednesday, November 13, 2019",Utkarsh,Gujarat,Surat
+B-26090,"Thursday, November 14, 2019",Sagar,Nagaland,Kohima
+B-25988,"Friday, November 15, 2019",Nirja,Delhi,Delhi
+B-25906,"Saturday, November 16, 2019",Abhijit,Delhi,Delhi
+B-26017,"Sunday, November 17, 2019",Sonakshi,Jammu and Kashmir,Kashmir
+B-25644,"Monday, November 18, 2019",Mayank,Maharashtra,Mumbai
+B-25679,"Tuesday, November 19, 2019",Avni,Maharashtra,Mumbai
+B-25723,"Wednesday, November 20, 2019",Wale,Maharashtra,Mumbai
+B-25605,"Thursday, November 21, 2019",Kasheen,West Bengal,Kolkata
+B-25792,"Friday, November 22, 2019",Abhishek,Maharashtra,Mumbai
+B-25680,"Saturday, November 23, 2019",Aayushi,Madhya Pradesh,Indore
+B-25931,"Sunday, November 24, 2019",Sidharth,Maharashtra,Mumbai
+B-25932,"Monday, November 25, 2019",Bhutekar,Madhya Pradesh,Indore
+B-25990,"Tuesday, November 26, 2019",Mugdha,Delhi,Delhi
+B-25615,"Wednesday, November 27, 2019",Bhavna,Sikkim,Gangtok
+B-26031,"Thursday, November 28, 2019",Deepak,Madhya Pradesh,Bhopal
+B-25801,"Friday, November 29, 2019",Aryan,Madhya Pradesh,Bhopal
+B-25833,"Saturday, November 30, 2019",Krishna,Madhya Pradesh,Indore
+B-26077,"Sunday, December 1, 2019",Divsha,Rajasthan,Jaipur
+B-25936,"Monday, December 2, 2019",Nikhil,Punjab,Chandigarh
+B-25938,"Tuesday, December 3, 2019",Shikhar,Himachal Pradesh,Simla
+B-25716,"Wednesday, December 4, 2019",Surabhi,Tamil Nadu,Chennai
+B-25740,"Thursday, December 5, 2019",Rane,Maharashtra,Mumbai
+B-25763,"Friday, December 6, 2019",Noshiba,Gujarat,Ahmedabad
+B-25872,"Saturday, December 7, 2019",Saurabh,Maharashtra,Mumbai
+B-25879,"Sunday, December 8, 2019",Siddharth,Madhya Pradesh,Indore
+B-25926,"Monday, December 9, 2019",Dipali,Madhya Pradesh,Indore
+B-26074,"Tuesday, December 10, 2019",Bharat,Gujarat,Ahmedabad
+B-25627,"Wednesday, December 11, 2019",Hitika,Madhya Pradesh,Indore
+B-25940,"Thursday, December 12, 2019",Vivek,Goa,Goa
+B-26047,"Friday, December 13, 2019",Ashmi,Madhya Pradesh,Indore
+B-26069,"Saturday, December 14, 2019",Sanskriti,West Bengal,Kolkata
+B-26027,"Sunday, December 15, 2019",Sagar,Nagaland,Kohima
+B-25963,"Monday, December 16, 2019",Pratiksha,Maharashtra,Mumbai
+B-25922,"Tuesday, December 17, 2019",Akshata,Gujarat,Surat
+B-25866,"Wednesday, December 18, 2019",Komal,Himachal Pradesh,Simla
+B-25607,"Thursday, December 19, 2019",Sonakshi,Jammu and Kashmir,Kashmir
+B-25775,"Friday, December 20, 2019",Duhita,Haryana,Chandigarh
+B-25998,"Saturday, December 21, 2019",Anmol,Rajasthan,Udaipur
+B-26062,"Sunday, December 22, 2019",Tushina,Goa,Goa
+B-25722,"Monday, December 23, 2019",Inderpreet,Himachal Pradesh,Simla
+B-25776,"Tuesday, December 24, 2019",Mousam,Maharashtra,Mumbai
+B-26032,"Wednesday, December 25, 2019",Monisha,Rajasthan,Jaipur
+B-25705,"Thursday, December 26, 2019",Shweta,Madhya Pradesh,Indore
+B-25628,"Friday, December 27, 2019",Pooja,Bihar,Patna
+B-25733,"Saturday, December 28, 2019",Dhirajendu,Maharashtra,Mumbai
+B-25647,"Sunday, December 29, 2019",Sharda,Kerala ,Thiruvananthapuram
+B-25790,"Monday, December 30, 2019",Sajal,Bihar,Patna
+B-25709,"Tuesday, December 31, 2019",Aakanksha,Madhya Pradesh,Indore
+B-25911,"Wednesday, January 1, 2020",Phalguni,Madhya Pradesh,Bhopal
+B-25774,"Thursday, January 2, 2020",Snehal,Punjab,Chandigarh
+B-26042,"Friday, January 3, 2020",Manish,Himachal Pradesh,Simla
+B-25815,"Saturday, January 4, 2020",Harsh,Nagaland,Kohima
+B-25822,"Sunday, January 5, 2020",Tejas,Karnataka,Bangalore
+B-26075,"Monday, January 6, 2020",Pearl,Maharashtra,Pune
+B-25783,"Tuesday, January 7, 2020",Shivangi,Madhya Pradesh,Indore
+B-26046,"Wednesday, January 8, 2020",Nishi,Maharashtra,Mumbai
+B-25690,"Thursday, January 9, 2020",Gunjan,Madhya Pradesh,Indore
+B-25706,"Friday, January 10, 2020",Swetlana,Goa,Goa
+B-25736,"Saturday, January 11, 2020",Akshat,Maharashtra,Mumbai
+B-25720,"Sunday, January 12, 2020",Namrata,Punjab,Chandigarh
+B-25907,"Monday, January 13, 2020",Jaydeep,Madhya Pradesh,Bhopal
+B-25719,"Tuesday, January 14, 2020",Rashmi,Madhya Pradesh,Indore
+B-26013,"Wednesday, January 15, 2020",Jahan,Madhya Pradesh,Bhopal
+B-26044,"Thursday, January 16, 2020",Sanjay,Goa,Goa
+B-25649,"Friday, January 17, 2020",Rachna,Haryana,Chandigarh
+B-25658,"Saturday, January 18, 2020",Shefali,Rajasthan,Jaipur
+B-25672,"Sunday, January 19, 2020",Akanksha,Andhra Pradesh,Hyderabad
+B-25624,"Monday, January 20, 2020",Vini,Karnataka,Bangalore
+B-25884,"Tuesday, January 21, 2020",Sumeet,Maharashtra,Mumbai
+B-25641,"Wednesday, January 22, 2020",Parishi,West Bengal,Kolkata
+B-25841,"Thursday, January 23, 2020",Ashvini,Maharashtra,Mumbai
+B-25980,"Friday, January 24, 2020",Shweta,Rajasthan,Udaipur
+B-26012,"Saturday, January 25, 2020",Pearl,Maharashtra,Pune
+B-26029,"Sunday, January 26, 2020",Ramesh,Gujarat,Ahmedabad
+B-26071,"Monday, January 27, 2020",Subhashree,Jammu and Kashmir,Kashmir
+B-25646,"Tuesday, January 28, 2020",Sonal,Bihar,Patna
+B-25677,"Wednesday, January 29, 2020",Ekta,West Bengal,Kolkata
+B-25759,"Thursday, January 30, 2020",Soumya,Sikkim,Gangtok
+B-26059,"Friday, January 31, 2020",Rachna,Haryana,Chandigarh
+B-25632,"Saturday, February 1, 2020",Manish,Himachal Pradesh,Simla
+B-26079,"Sunday, February 2, 2020",Hazel,Karnataka,Bangalore
+B-25674,"Monday, February 3, 2020",Mahima,Maharashtra,Pune
+B-25965,"Tuesday, February 4, 2020",Saloni,West Bengal,Kolkata
+B-25732,"Wednesday, February 5, 2020",Anubhaw,Karnataka,Bangalore
+B-25834,"Thursday, February 6, 2020",Ananya,Andhra Pradesh,Hyderabad
+B-25784,"Friday, February 7, 2020",Rohit,Rajasthan,Jaipur
+B-25982,"Saturday, February 8, 2020",Hemangi,Delhi,Delhi
+B-25788,"Sunday, February 9, 2020",Dinesh,Tamil Nadu,Chennai
+B-25742,"Monday, February 10, 2020",Ashwin,Goa,Goa
+B-26088,"Tuesday, February 11, 2020",Bhavna,Sikkim,Gangtok
+B-25707,"Wednesday, February 12, 2020",Shivani,Maharashtra,Mumbai
+B-25758,"Thursday, February 13, 2020",Shubham,Himachal Pradesh,Simla
+B-26095,"Friday, February 14, 2020",Monisha,Rajasthan,Jaipur
