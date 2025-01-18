@@ -2,7 +2,7 @@ Jai Store Online Sales Dashboard
 Jai Factory and Textiles, an established clothing retailer, manufacturer aims to enhance its online sales tracking and analysis across India. The owner, Mr. Jai Kumar, seeks a comprehensive dashboard to gain real-time insights into sales performance, customer behavior, and market trends using Power BI.
 
 Objective
-To provide a powerful and intuitive dashboard that enables Madhav Store to:
+To provide a powerful and intuitive dashboard that enables Jai Store to:
 
 Track and analyze online sales data.
 
